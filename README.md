@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wilbsy
+- 👀 I’m interested in ... Design technology, AR/VR, front-end development, architectural design.
+- 🌱 I’m currently learning ... Unreal Engine 5, Three.js, D3, Svelte, TensorFlow.
+- 💞️ I’m looking to collaborate on ... Experience design, closed loop systems design in physical space, temporary structure design/fabrication, gadgetry of all types, EEG, and ML prediction modeling
+- 📫 How to reach me ... hello+github@u12e.com
